@@ -3,7 +3,7 @@ Various resources for web development freelancing that I use on a regular basis.
 
 If anyone has feedback or suggestions, please feel free to reach out!
 
-**Everything in this repo is free to use, modify, alter for anyone - please enjoy!**
+**Everything in this repo is free to use, modify, alter for anyone (see the MIT `LICENSE` file in the repo) - please enjoy!**
 
 # Contents
 
