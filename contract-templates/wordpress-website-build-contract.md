@@ -15,6 +15,11 @@ While we try to be consistent, there are some things we cannot change, so throug
 
 We’ll always do our best to fulfill your needs and meet your expectations, but it’s important to have things written down so that everyone knows what’s what, who should do what and when, and what will happen if something goes wrong. In this contract, you won’t find any complicated legal terms or long passages of unreadable text. We’ve no desire to trick you into signing something that you might later regret. What we do want is what’s best for both parties, now and in the future.
 
+In Short:
+
+* We are making you a website for $2,000 and it will take an estimated 10 weeks.
+* We are providing you with WordPress Hosting services for your website for $20/month on a month-by-month basis.
+
 ### In Short:
 We are making you a website for $1,500 and it will take an estimated 10 weeks.
 
@@ -69,6 +74,7 @@ We will use the WordPress platform and third party customized, licensed themes, 
 You will have the opportunity to review and approve the original base theme and suggest any customizations you would like. We will always optimize any digital assets you provide us for site performance. The website will be constructed so that you will be able to update the content yourself after launch, should you so desire, without any coding knowledge. A hand-off call will be scheduled when appropriate to teach you how to make edits to the site.
 
 If, at any stage, you change your mind about what you want to be delivered and are not happy with the direction our work is taking you’ll pay us in full for the time we’ve spent working with you until that point and terminate this contract.
+
 While the website is being developed, unless otherwise directed by us, we ask that you do not edit anything directly on the site. As part of the final sign-off for the site, we will provide you with an admin account to the WordPress CMS backend for the site.
 
 ## WordPress Plugins & Third Party Code
