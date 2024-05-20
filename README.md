@@ -12,4 +12,6 @@ If anyone has feedback or suggestions, please feel free to reach out!
 2. A contract for WordPress website hosting
 3. A contract for Computer Repair (or other physical, in-person computer services)
 
-_Note: The original inspiration and baseline template was an online resource shared by another freelance web developer - I could not find the repo and don't remember their name, but if anyone recognizes it, please flag it to me and I will update this, giving credit where credit is due!_
+Note: The original inspiration and baseline template was an online resource shared by another freelance web developer - I could not find the repo and don't remember their name, but if anyone recognizes it, please flag it to me and I will update this, giving credit where credit is due!
+
+_Disclaimer: I am not an attorney, nor was an attorney consulted in the creation of these documents. Although I do actively use these templates in my freelancing work, please adapt, use, and interpret the contents of this repo at your own risk._
