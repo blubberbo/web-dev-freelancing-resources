@@ -1,6 +1,6 @@
 This contract is between `[you]` (the "Business") and `[them]` (the "Client") dated `[date]`.
 
-The Client is hiring the Business for hosting a WordPress website.
+The Client is hiring the Business for the services described in this contract.
 
 # Terms
 
@@ -20,65 +20,33 @@ We’ll always do our best to fulfill your needs and meet your expectations, but
 
 ### In Short:
 
-We are providing you with WordPress Hosting services for your website for $20/month on a month-by-month basis.
+We are providing you with various IT Consulting Services on an ongoing basis at a rate of $100/hr.
 
-## Project Scope
+## Scope of Services
 
 `[EDIT THIS SECTION EACH CONTRACT]`
 
 The following outlines the goods and services we are providing you with under this contract:
 
-**Provide comprehensive WordPress hosting for the [website_name] website, including the following services:**
+**Build [business_name] website**
 
-1. Active and renewed SSL certificate
-2. Content Delivery Network (CDN)
-3. Resource caching
-4. Weekly WordPress theme and plug-in updates
-5. Weekly security and performance checks
-6. Taking and retaining 30 daily backups
-7. Website error monitoring, triage, and basic troubleshooting
-8. (ADDON) Uptime monitoring
-9. (ADDON) Enhanced Site Analytics and reporting (including e-commerce)
-10. (ADDON) Enhanced SEO monitoring and reporting (including e-commerce)
-11. (ADDON) Comprehensive website spot-checking and user-testing
+1. `[insert_item_here_]`
 
-## Timeline & Milestones
+## Equipment
 
-If we already have an export of or are hosting your site, the hosting will begin within 1 business day of this contract being signed.
+We will be ready to provide and use our own equipment to complete our work under this contract.
 
-If we do not have your website, you must provide us with a full, working export of the entire site. If there are things that are broken when we import your site, we will provide you with an estimate to fix them before proceeding. After a clean import or all remediations are complete, we will provide you with a staging site for sign-off before we launch the site and start the hosting.
-
-## WordPress Hosting Providers
-
-We do not directly provide WordPress hosting ourselves. Instead, we have contracts with WordPress hosting providers and manage client sites (like yours) using their services.
-
-Transparently, they charge us, and we charge you because we actively manage the hosting and provide all the services listed under Scope of Services.
-
-If you ever want to know with what WordPress Hosting Provider(s) we are currently working with, please reach out to us, and we will be happy to provide that.
-
-Because we use different WordPress Hosting Providers, there may be variations in Hard Drive Size and Bandwidth for sites, but as a benchmark, we maintain the following for all our clients:
-
-- 10GB Webspace
-- 50,000 Monthly Site Visits
-- Unmetered "reasonable" traffic
-
-If you are ever not happy with our hosting services, let us know and we will be happy to work with you, help you offboard from us to a different host, or to train you on managing your own hosting.
-
-## WordPress Plugins & Third Party Code
-
-In order to complete everything in the Scope of Services, we will likely need to install third party plugins or code onto your site. For a list of third party assets we use to perform our services, please reach out to us. We always make every effort to keep all third-party software, platforms, plugins, and code up to date with the most recent production releases. We also do our best to only use assets that are made by reputable sources and that are regularly maintained.
-
-## Cyber Security
-
-The WordPress platform and any third party assets (see the WordPress Plugins & Third Party Code section) we use on your website were not originally developed by us and are not maintained by us; thus we are not liable for any hacking or intrusion into them based on flaws with or vulnerabilities to them.
-
-The servers used for the WordPress Hosting we contract from affiliates are not owned or operated by us; thus we are not liable for any hacking or intrusion to them based on flaws with or vulnerabilities to them. We only use reputable WordPress Hosting providers.
+In the event that you provide equipment for us to use, we will use that equipment in good faith and only for the work described under this contract, although we cannot guarantee that we will do 100% of the work under this contract on the equipment you provide.
 
 ## What Do Both Parties Agree To?
 
-You: You have the authority to enter into this contract on behalf of yourself, your company, or your organization. You’ll give us the assets and information we tell you we need to complete the project. You’ll do this when we ask and provide it in the formats we ask for. You’ll review our work, and provide feedback and approval in a timely manner. You understand that our ability to complete our work outlined in the Project Scope is contingent on your fulfilling your obligations and deliverables outlined in this agreement.
+You: You have the authority to enter into this contract on behalf of yourself, your company, or your organization. You’ll give us the assets and information we tell you we need to complete the project. You’ll do this when we ask and provide it in the formats we ask for. You’ll review our work, and provide feedback and approval in a timely manner. You understand that our ability to complete our work outlined in the Scope of Services is contingent on your fulfilling your obligations and deliverables outlined in this agreement.
 
 Us: We have the experience and ability to do everything we’ve agreed with you and we’ll do it all in a professional and timely manner. We’ll endeavor to meet every deadline that’s set and on top of that, we'll maintain the confidentiality of everything you give us.
+
+## Cyber Security
+
+We do not own or host any platform we will be using in our work together, nor were any of them originally developed by us and are not maintained by us; thus we are not liable for any hacking or intrusion into them based on flaws with or vulnerabilities to them.
 
 ## Exclusivity
 
@@ -88,17 +56,29 @@ Any contractors involved in this contract will either be direct employees or par
 
 ## Intellectual Property Rights
 
+`[EDIT THIS SECTION EACH CONTRACT FOR THE COMPANY NAME]`
+
 Just to be clear, “Intellectual property rights” means all patents, rights to inventions, copyright (including rights to software) and related rights, trademarks, service marks, get-up and trade names, internet domain names, rights to goodwill or to sue for passing off, rights in designs, database rights, rights in confidential information (including know-how) and any other intellectual property rights, in each case whether registered or unregistered and including all applications (or rights to apply) for, and renewals or extensions of, such rights and all similar or equivalent rights or forms of protection which subsist or shall subsist now or in the future in any part of the world.
 
-Although we are managing the hosting of your site, you may still be adding and/or editing content on the site.
+First, you guarantee that all elements of text, images, or other media you provide are either owned by you or that you’ve permission to use them. When you provide text, images, or other media to us, you agree to protect us from any claim by a third party that we’re using their intellectual property.
 
-First, you guarantee that all elements of text, images, or other media you put onto your site are either owned by you or that you’ve permission to use them. When you put text, images, or other media onto your site, you agree to protect us from any claim by a third party that we’re hosting a website using their intellectual property.
+We guarantee that all elements of the work we deliver to you are either owned by us or we’ve obtained permission to provide them to you. When we provide text, images, or other media to you, we agree to protect you from any claim by a third party that you’re using their intellectual property.
 
-In the event we make any changes to your website (under your direction), we guarantee that all elements of the work we deliver to you are either owned by us or we’ve obtained permission to provide them to you. When we provide text, images, or other media to you, we agree to protect you from any claim by a third party that you’re using their intellectual property.
+Provided you’ve paid for the work and that this contract hasn’t been terminated, we’ll assign all intellectual property rights to you as follows:
+
+- You'll own all of the work product we produce specifically to fulfill the responsibilities listed in Scope of Services in this contract.
+- You'll own all platforms, services, engagements that we establish and manage while using our `[company]` email address.
+- We will own everything we produce or work on (on our equipment) that is not directly related to us providing you services under this contract.
 
 ## Dispute Resolution
 
 If there is a disagreement about this contract or the services we are providing you, both parties will attempt to negotiate and come to a mutual resolution. In the event that a mutual resolution cannot be reached through good faith negotiations, the disagreement shall be referred to arbitration. The arbitrator’s decision shall be final and binding. The non-prevailing Party shall pay the reasonable attorneys’ fees and other costs and expenses (including expert witness fees and costs associated with enforcing the judgment of the arbitration) to the prevailing Party.
+
+## Independent Contractor Capacity
+
+In working under this contract, we are acting as an independent contractor and not as an employee. Both parties acknowledge that this contract does not create a partnership or joint venture between them, and is exclusively a contract for service. You are not required to pay, or make any contributions to, any social security, local, state or federal tax, unemployment compensation, workers' compensation, insurance premium, profit-sharing, pension or any other employee benefit for us during the Term. We are responsible for paying, and complying with reporting requirements for, all local, state and federal taxes related to payments made to the us under this contract.
+
+Except as otherwise provided in this contract, we will have full control over working time, methods, and decision-making in relation to the work under this Contract. We will work autonomously and not at your direction. However, we will be responsive to your reasonable needs and concerns.
 
 ## Other Legal Stuff
 
@@ -116,16 +96,20 @@ Finally, if any provision of this contract shall be unlawful, void, or for any r
 
 `[EDIT THIS SECTION EACH CONTRACT]`
 
-The total cost of the work we are responsible for under this contract is $`[total_amount]`. This does not include any third-party themes, plugins, addons, libraries, media, or other resources we need to purchase to meet your project requirements -those will be communicated to you for approval and either purchased by you or we will invoice you for them separately.
+The hourly rate for the work we are responsible for under this contract is $`[hourly_rate]`. This does not include any third-party platforms, licenses, hardware, or other resources we need to purchase to meet your requirements - those will be communicated to you for approval and either purchased by you or we will invoice you for them separately.
+
+We will do my best to work in blocks of full hours to be efficient with our time, but keep in mind that the minimum amount of billable time we will record is 30 minutes. This means we will group tasks together to work full hours when we can, but in the event we need to be responsive to an emergency or critical issue, we will round up to the closest 30-minute mark to billing and invoicing purposes.
+
+Equipment, hardware inventory, or storage equipment/furniture/fixtures required to store your materials in my office will be approved by you and either purchased using your funds or we will invoice you for reimbursement.
 
 We would sincerely appreciate you promptly paying all invoices we send; we do sincerely enjoy working together, but we are also doing this for the money. You agree to the following invoicing and payment terms:
 
 - We issue invoices electronically.
 - Payments are due 14 days from the date of invoice.
-- In the event that you are late or fail to deliver anything you are responsible for in the Timeline & Milestones section, payment due dates will NOT be adjusted or pushed back. If you are delinquent on delivering something, you will still make all payments at the time indicated in this agreement.
 - All invoices are quoted in USD. You agree to pay all charges associated with international transfers of funds, if applicable.
 - The appropriate bank account or approved payment method details will be available in the invoice.
 - We reserve the right to charge interest on all overdue debts at the rate of 5% per month or fraction of a month.
+- We reserve the right to change our hourly rate at anytime with a minimum of 90 days notice (unless otherwise mutually agree upon by both parties).
 
 ## Contract Renewal
 

@@ -18,15 +18,9 @@ While we try to be consistent, there are some things we cannot change, so throug
 
 We’ll always do our best to fulfill your needs and meet your expectations, but it’s important to have things written down so that everyone knows what’s what, who should do what and when, and what will happen if something goes wrong. In this contract, you won’t find any complicated legal terms or long passages of unreadable text. We’ve no desire to trick you into signing something that you might later regret. What we do want is what’s best for both parties, now and in the future.
 
-In Short:
-
-- We are making you a website for $2,000 and it will take an estimated 10 weeks.
-
 ### In Short:
 
-We are making you a website for $1,500 and it will take an estimated 10 weeks.
-
-We are providing you with WordPress Hosting services for your website for $20/month on a month-by-month basis.
+We are making you a website for $2,000 and it will take an estimated 10 weeks.
 
 ## Project Scope
 
