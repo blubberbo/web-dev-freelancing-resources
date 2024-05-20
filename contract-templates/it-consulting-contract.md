@@ -18,7 +18,7 @@ While we try to be consistent, there are some things we cannot change, so throug
 
 We’ll always do our best to fulfill your needs and meet your expectations, but it’s important to have things written down so that everyone knows what’s what, who should do what and when, and what will happen if something goes wrong. In this contract, you won’t find any complicated legal terms or long passages of unreadable text. We’ve no desire to trick you into signing something that you might later regret. What we do want is what’s best for both parties, now and in the future.
 
-### In Short:
+### In Short
 
 We are providing you with various IT Consulting Services on an ongoing basis at a rate of $100/hr.
 
@@ -28,9 +28,14 @@ We are providing you with various IT Consulting Services on an ongoing basis at 
 
 The following outlines the goods and services we are providing you with under this contract:
 
-**Build [business_name] website**
-
 1. `[insert_item_here_]`
+
+## Attachments
+
+As work under this contract will be decided on based on individual estimates/invoices, I have linked documents addressing contract terms for relevant types of work:
+
+- Attachment A - Computer Repair - Revision 5/20/24: <https://docs.google.com/document/d/1lMfGWoBeAXvICAa1B1BTALl5U9Ew1WeXNPqTCdeIGjA/edit?usp=sharing>
+- Attachment B - Web Development - Revision 5/20/24: <https://docs.google.com/document/d/1vye8QhzXtyiEsFmDrIWZiVGHxcydCWVl1rQlmeoNbNU/edit?usp=sharing>
 
 ## Equipment
 
