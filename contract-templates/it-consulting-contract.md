@@ -56,8 +56,6 @@ Any contractors involved in this contract will either be direct employees or par
 
 ## Intellectual Property Rights
 
-`[EDIT THIS SECTION EACH CONTRACT FOR THE COMPANY NAME]`
-
 Just to be clear, “Intellectual property rights” means all patents, rights to inventions, copyright (including rights to software) and related rights, trademarks, service marks, get-up and trade names, internet domain names, rights to goodwill or to sue for passing off, rights in designs, database rights, rights in confidential information (including know-how) and any other intellectual property rights, in each case whether registered or unregistered and including all applications (or rights to apply) for, and renewals or extensions of, such rights and all similar or equivalent rights or forms of protection which subsist or shall subsist now or in the future in any part of the world.
 
 First, you guarantee that all elements of text, images, or other media you provide are either owned by you or that you’ve permission to use them. When you provide text, images, or other media to us, you agree to protect us from any claim by a third party that we’re using their intellectual property.
@@ -66,8 +64,8 @@ We guarantee that all elements of the work we deliver to you are either owned by
 
 Provided you’ve paid for the work and that this contract hasn’t been terminated, we’ll assign all intellectual property rights to you as follows:
 
-- You'll own all of the work product we produce specifically to fulfill the responsibilities listed in Scope of Services in this contract.
-- You'll own all platforms, services, engagements that we establish and manage while using our `[company]` email address.
+- You'll own all of the work product we produce specifically to fulfill the responsibilities listed in the Scope of Services in this contract.
+- You'll own all platform/service engagements or agreements that we establish and manage for the purposes of the services under this contract.
 - We will own everything we produce or work on (on our equipment) that is not directly related to us providing you services under this contract.
 
 ## Dispute Resolution
