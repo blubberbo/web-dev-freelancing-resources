@@ -30,12 +30,88 @@ The following outlines the goods and services we are providing you with under th
 
 1. `[insert_item_here_]`
 
-## Attachments
+## Computer Repair Services
 
-As work under this contract will be decided on based on individual estimates/invoices, I have linked documents addressing contract terms for relevant types of work:
+The following section is relevant to individual estimates/invoices under this contract involving computer repair work:
 
-- Attachment A - Computer Repair - Revision 5/20/24: <https://docs.google.com/document/d/1lMfGWoBeAXvICAa1B1BTALl5U9Ew1WeXNPqTCdeIGjA/edit?usp=sharing>
-- Attachment B - Web Development - Revision 5/20/24: <https://docs.google.com/document/d/1vye8QhzXtyiEsFmDrIWZiVGHxcydCWVl1rQlmeoNbNU/edit?usp=sharing>
+We will only perform and provide computer services, repairs, and upgrades as requested by you.
+
+We will conduct honest, reasonable, and considerate services. The goal is to provide the highest quality of service and support, but specific results cannot be guaranteed.
+
+Computer service/repairs are provided as a service. There may be circumstances under which your computer can not be repaired. It will have to be rebuilt or upgraded. (Examples: Age of PC, repair/replacement parts obsolete: memory chips, motherboards, etc.).
+
+You understand that in the process of working on your computer equipment, there is a potential for data loss. You agree that they have made the necessary backups of your data so that, in the event of such loss, the data can be restored. We will not be responsible for data loss. It is your responsibility to back up your data. We will not be responsible for data loss.
+
+Service(s) are provided in an effort to fix, upgrade, or otherwise repair the computer system(s) for which you request such service(s).
+
+Your system will not be intentionally harmed. The primary goal is to fix your computer, not damage it.
+
+In the case of accidental damage of data to your system or data loss caused by already existing problems in your system such as (but not limited to) viruses, badly configured software, or hardware problems/failures - you agree to hold us and any person(s) associated with us or involved in the work being done for you harmless from damages resulting from such problems.
+
+## Web Development Services
+
+The following section is relevant to individual estimates/invoices under this contract involving web development work:
+
+### Note On Platforms
+
+The web development CMS is being used (including but not limited to: WordPress, Wix, Squarespace, bluehost, etc) shall be referred to in this section as “CMS”.
+
+### Site Design and Construction
+
+We will use the CMS platform and third-party customized, licensed themes, plugins, and code to create your site. We take this approach because we've found it to be the most robust, professional, and cost-effective way to make beautiful and functional websites. We use out-of-the-box HTML, CSS, JavaScript, PHP, and database code included in CMS and other third-party assets in addition to any custom code we write and use minification and polyfills when available.
+
+You will have the opportunity to review and approve the original base theme and suggest any customizations you would like. We will always optimize any digital assets you provide us for site performance. The website will be constructed so that you will be able to update the content yourself after launch, should you so desire, without any coding knowledge. A hand-off call will be scheduled when appropriate to teach you how to make edits to the site.
+
+If, at any stage, you change your mind about what you want to be delivered and are not happy with the direction our work is taking you’ll pay us in full for the time we’ve spent working with you until that point and terminate this contract.
+
+While the website is being developed, unless otherwise directed by us, we ask that you do not edit anything directly on the site. As part of the final sign-off for the site, we will provide you with an admin account to the CMS backend for the site.
+
+### CMS Plugins & Third Party Code
+
+In order to complete everything in the relevant estimate/invoice, we will likely need to install third party plugins or code onto your site. For a list of third party assets we use to perform our services, please reach out to us. We always make every effort to keep all third-party software, platforms, plugins, and code up to date with the most recent production releases. We also do our best to only use assets that are made by reputable sources and that are regularly maintained.
+
+### Text Content
+
+We will enter all text content you provide us into the website but will not take the liberty of writing any new text content for you. We will supply you with an itemized list of the pieces of text content we need from you and will work together on their expected delivery dates. If you would like us to write new text content for your site, let us know and we can talk about options.
+
+### Graphics, Photographs, and Other Media
+
+You will be providing us with all the graphics, photographs, and other media required for your site that are not included in a pre-selected CMS theme. You should supply graphic files in an editable, vector digital format. You should supply photographs in a high-resolution digital format.
+
+If you choose to buy stock photographs, we can suggest stock libraries. If you’d like us to search for photographs or generate graphics for you, we can provide a separate estimate for that.
+
+### Browser Testing & Responsiveness
+
+Browser testing no longer means attempting to make a website look the same in browsers of different capabilities or on devices with different size screens. It does mean ensuring that a person’s experience of a design should be appropriate to the capabilities of a browser or device.
+
+We test our work in current versions of major desktop browsers including those made by Apple (Safari), Google (Chrome), Microsoft (Edge), and Mozilla Firefox. We won’t test in other older browsers, including Microsoft Internet Explorer 11 for Windows, unless agreed upon separately.
+
+Mobile browser Testing using popular smaller-screen devices is essential in ensuring that a person’s experience of a design is appropriate to the capabilities of the device they’re using. We test our designs in the latest versions of Safari and Google Chrome on the latest iOS for iPhones only.
+
+We won’t test on Blackberry, Opera Mini/Mobile, Android devices, Windows, or other mobile browsers unless agreed upon separately.
+
+### Web Hosting
+
+We provide web hosting while your site is in development. In order to launch the website, there will need to be web hosting set up after the end of this contract. We offer web hosting for our clients via our web hosting contracts with providers. Once your website is complete, you have 2 options for how we handle hosting:
+
+1. Option 1: we set up and manage web hosting for your website on a monthly basis (to be invoiced outside of this contract). While we are acting as your web hosts, we will perform weekly performance and security checks, update CMS plugins and themes as necessary, and maintain regular backups of your site.
+2. Option 2: we provide you with an export of the entire site from our development web hosting and provide no ongoing services.
+
+### Search engine optimization (SEO)
+
+We do not (and cannot) guarantee improvements to your website’s search engine ranking, but the web pages that we develop are accessible to search engines and we ensure all relevant metadata is comprehensive and discoverable by search engines to find when the website is launched. If you need ongoing SEO support and optimization, we can provide a separate estimate for that.
+
+### Changes and Revisions
+
+We don’t want to limit your ability to change your mind. The price in this contract includes 2 full rounds of revisions to the content of the website. That means after both parties agree on the design (aka the theme with any customizations) and the structure (aka the number of pages), we will enter all the content you provide us into the site, and you will then have 2 opportunities ("Content Reviews") to do a full review of the site and provide feedback on content changes that need to be made.
+
+After those 2 rounds of Content Reviews, if you want to change your mind or add anything new, that won’t be a problem, but we will provide a separate estimate for that additional work. While it may not seem like a lot right now, from our experience, 2 rounds are enough to make sure everything is polished and complete while still allowing the website to move forward and not get stuck in an endless cycle of editing things back and forth.
+
+Please note that Content Reviews in this section refer to changes to the content (text, images, media, etc) on the site, and not about the structure. For example, if you decide that you want 3 more pages on the website during the second round of Content Reviews, that would prompt a separate estimate.
+
+### Displaying Our Work
+
+We love to show off our work, so we reserve the right to display all aspects of our creative work, including sketches, work-in-progress designs, and the completed project discussed in this contract on our portfolio and in articles on websites, magazines, and books. With your consent, we would love to include a discrete banner at the bottom of the site, indicating that we did the build; we do not require this.
 
 ## Equipment
 
@@ -52,6 +128,10 @@ Us: We have the experience and ability to do everything we’ve agreed with you 
 ## Cyber Security
 
 We do not own or host any platform we will be using in our work together, nor were any of them originally developed by us and are not maintained by us; thus we are not liable for any hacking or intrusion into them based on flaws with or vulnerabilities to them.
+
+While doing web development work, any CMS platform and any third-party assets (see the CMS Plugins & Third Party Code section) we use on your website were not originally developed by us and are not maintained by us; thus we are not liable for any hacking or intrusion into them based on flaws with or vulnerabilities to them.
+
+The servers used for any CMS/Web Hosting we contract from affiliates are not owned or operated by us; thus we are not liable for any hacking or intrusion to them based on flaws with or vulnerabilities to them. We only use reputable CMS/Web Hosting providers.
 
 ## Exclusivity
 
@@ -71,7 +151,10 @@ Provided you’ve paid for the work and that this contract hasn’t been termina
 
 - You'll own all of the work product we produce specifically to fulfill the responsibilities listed in the Scope of Services in this contract.
 - You'll own all platform/service engagements or agreements that we establish and manage for the purposes of the services under this contract.
-- We will own everything we produce or work on (on our equipment) that is not directly related to us providing you services under this contract.
+- You’ll own any website we design for you. We will export a copy of the entire site as well as any applicable license keys and provide that to you when the website launches. You should keep them somewhere safe as we’re not required to keep a copy.
+- You own all intellectual property rights of text, images, site specifications, and data you provided unless someone else owns them.
+- We’ll own any intellectual property rights we’ve developed prior to, or developed separately from this project and not paid for by you.
+- We'll own everything we produce or work on (on our equipment) that is not directly related to us providing you services under this contract.
 
 ## Dispute Resolution
 
